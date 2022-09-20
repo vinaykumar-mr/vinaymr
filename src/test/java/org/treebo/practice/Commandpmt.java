@@ -7,7 +7,7 @@ import treebo.genericUtility.WebDriverUtility;
 public class Commandpmt {
 @Test
 public void Sample(){
-
+//aaaaa
 	String browser = System.getProperty("b");
 	String url = System.getProperty("u");
 	System.out.println("Browser name is -----"+browser);
