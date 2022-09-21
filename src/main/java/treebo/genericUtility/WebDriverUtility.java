@@ -23,8 +23,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
  */
 public class WebDriverUtility {
 	Java java;
-	static WebDriver driver;
 	JavascriptExecutor jse;
+	static WebDriver driver;
 	public WebDriver launchBrowser(String browser) {
 		switch(browser)
 		{
